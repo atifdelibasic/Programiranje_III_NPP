@@ -32,18 +32,19 @@
             this.dtpDatumPolaganja = new System.Windows.Forms.DateTimePicker();
             this.btnDodajPolozeni = new System.Windows.Forms.Button();
             this.dgvPolozeniPredmeti = new System.Windows.Forms.DataGridView();
+            this.Predmet = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Ocjena = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Datum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cmbOcjene = new System.Windows.Forms.ComboBox();
             this.cbUcitajNepolozene = new System.Windows.Forms.CheckBox();
             this.btnASYNC = new System.Windows.Forms.Button();
             this.btnPrintajUvjerenje = new System.Windows.Forms.Button();
-            this.Predmet = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Ocjena = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Datum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPolozeniPredmeti)).BeginInit();
             this.SuspendLayout();
             // 
             // cmbPredmeti
             // 
+            this.cmbPredmeti.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbPredmeti.FormattingEnabled = true;
             this.cmbPredmeti.Location = new System.Drawing.Point(16, 11);
             this.cmbPredmeti.Margin = new System.Windows.Forms.Padding(4);
@@ -88,8 +89,36 @@
             this.dgvPolozeniPredmeti.Size = new System.Drawing.Size(859, 249);
             this.dgvPolozeniPredmeti.TabIndex = 4;
             // 
+            // Predmet
+            // 
+            this.Predmet.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Predmet.DataPropertyName = "Predmet";
+            this.Predmet.HeaderText = "Predmet";
+            this.Predmet.MinimumWidth = 6;
+            this.Predmet.Name = "Predmet";
+            this.Predmet.ReadOnly = true;
+            // 
+            // Ocjena
+            // 
+            this.Ocjena.DataPropertyName = "Ocjena";
+            this.Ocjena.HeaderText = "Ocjena";
+            this.Ocjena.MinimumWidth = 6;
+            this.Ocjena.Name = "Ocjena";
+            this.Ocjena.ReadOnly = true;
+            this.Ocjena.Width = 125;
+            // 
+            // Datum
+            // 
+            this.Datum.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Datum.DataPropertyName = "Datum";
+            this.Datum.HeaderText = "Datum";
+            this.Datum.MinimumWidth = 6;
+            this.Datum.Name = "Datum";
+            this.Datum.ReadOnly = true;
+            // 
             // cmbOcjene
             // 
+            this.cmbOcjene.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOcjene.FormattingEnabled = true;
             this.cmbOcjene.Items.AddRange(new object[] {
             "6",
@@ -136,33 +165,6 @@
             this.btnPrintajUvjerenje.Text = "Printaj uvjerenje";
             this.btnPrintajUvjerenje.UseVisualStyleBackColor = true;
             this.btnPrintajUvjerenje.Click += new System.EventHandler(this.btnPrintajUvjerenje_Click);
-            // 
-            // Predmet
-            // 
-            this.Predmet.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Predmet.DataPropertyName = "Predmet";
-            this.Predmet.HeaderText = "Predmet";
-            this.Predmet.MinimumWidth = 6;
-            this.Predmet.Name = "Predmet";
-            this.Predmet.ReadOnly = true;
-            // 
-            // Ocjena
-            // 
-            this.Ocjena.DataPropertyName = "Ocjena";
-            this.Ocjena.HeaderText = "Ocjena";
-            this.Ocjena.MinimumWidth = 6;
-            this.Ocjena.Name = "Ocjena";
-            this.Ocjena.ReadOnly = true;
-            this.Ocjena.Width = 125;
-            // 
-            // Datum
-            // 
-            this.Datum.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Datum.DataPropertyName = "Datum";
-            this.Datum.HeaderText = "Datum";
-            this.Datum.MinimumWidth = 6;
-            this.Datum.Name = "Datum";
-            this.Datum.ReadOnly = true;
             // 
             // KorisniciPolozeniPredmeti
             // 
