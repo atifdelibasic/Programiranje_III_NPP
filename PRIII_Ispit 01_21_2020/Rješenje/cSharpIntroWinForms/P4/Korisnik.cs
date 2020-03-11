@@ -56,7 +56,7 @@ namespace cSharpIntroWinForms
             {
                 foreach (var polozeni in Uspjeh)
                 {
-                    if (predmet == polozeni.Predmet)
+                    if (predmet.Id == polozeni.Predmet.Id)
                     {
                         provjera = true;
                         break;
