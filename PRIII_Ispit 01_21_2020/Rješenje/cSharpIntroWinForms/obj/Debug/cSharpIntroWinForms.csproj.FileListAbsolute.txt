@@ -229,3 +229,4 @@ C:\Users\Atif\Desktop\GIT\Programiranje_III_NPP\PRIII_Ispit 01_21_2020\Rješenje
 C:\Users\Atif\Desktop\GIT\Programiranje_III_NPP\PRIII_Ispit 01_21_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
 C:\Users\Atif\Desktop\GIT\Programiranje_III_NPP\PRIII_Ispit 01_21_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
 C:\Users\Atif\Desktop\GIT\Programiranje_III_NPP\PRIII_Ispit 01_21_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\GIT\Programiranje_III_NPP\PRIII_Ispit 01_21_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
