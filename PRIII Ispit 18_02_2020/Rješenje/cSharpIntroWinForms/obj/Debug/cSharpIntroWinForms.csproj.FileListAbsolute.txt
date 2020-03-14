@@ -1,0 +1,786 @@
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P11.Izvjestaji.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P11.Visenitno.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.XO.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P5.Student.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P7.LINQ.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P9.StudentiDb.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Daris\Desktop\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\DLWMS.db
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\stdole.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P11.Izvjestaji.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P11.Visenitno.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.XO.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P5.Student.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P7.LINQ.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P9.StudentiDb.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\DLWMS.db
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\stdole.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\csharp-prgoramming-master\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\DLWMS.db
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\stdole.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Izvjestaj.resources
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+D:\Mega\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_18_19_Ispit\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\DLWMS.db
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\stdole.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MEGA\Posao\Ispiti\PRIII\2018_19\PRIII_21012020\Priprema\PRIII_NPP18_19_NEW\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Glavna.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.GodineStudijaForm.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Glavna.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.GodineStudijaForm.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Izvjestaj.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Glavna.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.GodineStudijaForm.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Izvjestaj.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Glavna.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.GodineStudijaForm.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Izvjestaj.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Atif\Desktop\PRIII Ispit 18_02_2020\Rješenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
